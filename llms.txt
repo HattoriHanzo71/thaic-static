@@ -1,0 +1,28 @@
+# Thomas Hunziker – AI Transformation Architect
+
+> Thomas Hunziker ist AI Transformation Architect und berät inhabergeführte KMU im DACH-Raum beim Aufbau von AI-First Organisationen, skalierbaren Agentensystemen und operativer KI-Infrastruktur. Ziel ist nicht der punktuelle KI-Einsatz, sondern die systemische Transformation des Unternehmens.
+
+## Services
+
+- [KI-Potenzialanalyse](https://www.thomashunziker.ai/#ki-potenzialanalyse): Kostenlose Erstanalyse zur Identifikation der grössten KI-Hebel im Unternehmen.
+- [AI-First Operating Model](https://www.thomashunziker.ai/leistungen): Aufbau von KI-Agenten, Workflows und Prozessen für skalierbare Automatisierung.
+- [KI-Fahrplan für KMU](https://www.thomashunziker.ai/leistungen): Strukturierter Implementierungsplan für Unternehmen ohne eigene IT-Abteilung.
+
+## Über Thomas Hunziker
+
+- [Über uns](https://www.thomashunziker.ai/ueber-uns): Hintergrund, Methodik und Erfahrung als AI Transformation Architect.
+
+## Blog – KI-Wissen für Entscheidungsträger
+
+- [KI-Debatte und DACH-Mittelstand: 3 Schritte für KMU-Inhaber](https://www.thomashunziker.ai/blog/ki-debatte-dach-mittelstand)
+- [KI als System statt Tool: Echte Hebelwirkung im Unternehmen](https://www.thomashunziker.ai/blog/ki-als-system-statt-tool)
+- [KI dauerhaft im Arbeitsalltag: AI-First Routinen entwickeln](https://www.thomashunziker.ai/blog/ai-first-routinen)
+- [KI Use Cases identifizieren: Framework für Führungskräfte](https://www.thomashunziker.ai/blog/ki-use-cases-framework)
+- [KI-fähige Organisation aufbauen: Grundlagen für KMU](https://www.thomashunziker.ai/blog/ki-faehige-organisation)
+- [Warum KI kein Tool ist – sondern ein Organisationsprinzip](https://www.thomashunziker.ai/blog/ki-organisationsprinzip)
+
+## Kontakt
+
+- E-Mail: thomas@thomashunziker.ai
+- LinkedIn: https://www.linkedin.com/in/thomashunziker/
+- Website: https://www.thomashunziker.ai

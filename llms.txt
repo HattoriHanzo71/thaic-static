@@ -7,6 +7,7 @@
 - [KI-Potenzialanalyse](https://thomashunziker.ai/ki-analyse): Zeigt, wo Künstliche Intelligenz im Unternehmen echten Mehrwert schafft, mit konkreten Anwendungsfeldern und einer klaren Umsetzungsstrategie.
 - [KI-Architektur](https://thomashunziker.ai/ki-architektur): Verbindet Prozesse, Daten und Systeme zu einer Gesamtstruktur, damit KI zuverlässig und skalierbar läuft.
 - [HAIOS](https://thomashunziker.ai/haios): Das individuelle KI-Fundament für inhabergeführte Unternehmen aus Wissen, Daten und Governance, in vier Stufen von der Standortbestimmung zum laufenden System.
+- [KI-Beratung für den Mittelstand](https://thomashunziker.ai/ki-beratung-mittelstand): KI-Beratung für inhabergeführte Unternehmen mit 10–50 Mitarbeitenden in Deutschland und Österreich, von der AI Impact Session über das individuelle KI-Fundament bis zum laufenden Betrieb.
 - [KI-Reifegrad-Analyse](https://reifegrad.thomashunziker.ai): Kostenlose Selbsteinschätzung in fünf Dimensionen mit persönlichem Report.
 
 ## Über Thomas Hunziker

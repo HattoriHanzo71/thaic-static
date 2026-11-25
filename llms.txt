@@ -1,28 +1,33 @@
-# Thomas Hunziker – AI Transformation Architect
+# Thomas Hunziker | AI Consulting (THAIC)
 
-> Thomas Hunziker ist AI Transformation Architect und berät inhabergeführte KMU im DACH-Raum beim Aufbau von AI-First Organisationen, skalierbaren Agentensystemen und operativer KI-Infrastruktur. Ziel ist nicht der punktuelle KI-Einsatz, sondern die systemische Transformation des Unternehmens.
+> Thomas Hunziker ist AI Transformation Architect und berät inhabergeführte KMU in der Schweiz und im DACH-Raum. THAIC verbindet KI-Strategie, KI-Architektur und Umsetzung zu einem gemeinsamen KI-Fundament, statt einzelne Tools einzuführen. Sitz: Affoltern am Albis (ZH), Schweiz. UID CHE-342.063.485.
 
-## Services
+## Leistungen
 
-- [KI-Potenzialanalyse](https://www.thomashunziker.ai/#ki-potenzialanalyse): Kostenlose Erstanalyse zur Identifikation der grössten KI-Hebel im Unternehmen.
-- [AI-First Operating Model](https://www.thomashunziker.ai/leistungen): Aufbau von KI-Agenten, Workflows und Prozessen für skalierbare Automatisierung.
-- [KI-Fahrplan für KMU](https://www.thomashunziker.ai/leistungen): Strukturierter Implementierungsplan für Unternehmen ohne eigene IT-Abteilung.
+- [KI-Potenzialanalyse](https://thomashunziker.ai/ki-analyse): Zeigt, wo Künstliche Intelligenz im Unternehmen echten Mehrwert schafft, mit konkreten Anwendungsfeldern und einer klaren Umsetzungsstrategie.
+- [KI-Architektur](https://thomashunziker.ai/ki-architektur): Verbindet Prozesse, Daten und Systeme zu einer Gesamtstruktur, damit KI zuverlässig und skalierbar läuft.
+- [HAIOS](https://thomashunziker.ai/haios): Das individuelle KI-Fundament für inhabergeführte Unternehmen aus Wissen, Daten und Governance, in vier Stufen von der Standortbestimmung zum laufenden System.
+- [KI-Reifegrad-Analyse](https://reifegrad.thomashunziker.ai): Kostenlose Selbsteinschätzung in fünf Dimensionen mit persönlichem Report.
 
 ## Über Thomas Hunziker
 
-- [Über uns](https://www.thomashunziker.ai/ueber-uns): Hintergrund, Methodik und Erfahrung als AI Transformation Architect.
+- [Über uns](https://thomashunziker.ai/ueber-uns): Hintergrund, Methodik und Erfahrung.
+- [Kontakt](https://thomashunziker.ai/kontakt)
 
-## Blog – KI-Wissen für Entscheidungsträger
+## KI-Insights für Unternehmer
 
-- [KI-Debatte und DACH-Mittelstand: 3 Schritte für KMU-Inhaber](https://www.thomashunziker.ai/blog/ki-debatte-dach-mittelstand)
-- [KI als System statt Tool: Echte Hebelwirkung im Unternehmen](https://www.thomashunziker.ai/blog/ki-als-system-statt-tool)
-- [KI dauerhaft im Arbeitsalltag: AI-First Routinen entwickeln](https://www.thomashunziker.ai/blog/ai-first-routinen)
-- [KI Use Cases identifizieren: Framework für Führungskräfte](https://www.thomashunziker.ai/blog/ki-use-cases-framework)
-- [KI-fähige Organisation aufbauen: Grundlagen für KMU](https://www.thomashunziker.ai/blog/ki-faehige-organisation)
-- [Warum KI kein Tool ist – sondern ein Organisationsprinzip](https://www.thomashunziker.ai/blog/ki-organisationsprinzip)
+- [Nachfolge im KMU: Wie KI Ihr Unternehmen verkaufbarer macht](https://thomashunziker.ai/ki-insights/nachfolge-im-kmu-wie-ki-ihr-unternehmen-verkaufbarer-macht)
+- [KI-Architektur im KMU: Das Fundament für Gewinn und Zeit](https://thomashunziker.ai/ki-insights/ki-architektur-im-kmu-das-fundament-fuer-gewinn-und-zeit)
+- [KI-Regulierung zieht an: Was Ihr KMU jetzt wissen muss](https://thomashunziker.ai/ki-insights/ki-regulierung-zieht-an-was-ihr-kmu-jetzt-wissen-muss)
+- [KI-Debatte und DACH-Mittelstand: 3 Schritte für KMU-Inhaber](https://thomashunziker.ai/ki-insights/ki-debatte-und-dach-mittelstand-3-schritte-f%C3%BCr-kmu-inhaber)
+- [KI als System statt Tool: Echte Hebelwirkung im Unternehmen](https://thomashunziker.ai/ki-insights/ki-als-system-statt-tool-echte-hebelwirkung-im-unternehmen)
+- [KI dauerhaft im Arbeitsalltag: AI-First Routinen entwickeln](https://thomashunziker.ai/ki-insights/ki-dauerhaft-im-arbeitsalltag-ai-first-routinen-entwickeln)
+- [KI Use Cases identifizieren – ein Framework für Führungskräfte](https://thomashunziker.ai/ki-insights/ki-use-cases-identifizieren-%E2%80%93-ein-framework-f%C3%BCr-f%C3%BChrungskr%C3%A4fte)
+- [KI-fähige Organisation aufbauen: Grundlagen für KMU](https://thomashunziker.ai/ki-insights/ki-f%C3%A4hige-organisation-aufbauen-grundlagen-f%C3%BCr-kmu)
+- [Warum KI kein Tool ist – sondern ein Organisationsprinzip](https://thomashunziker.ai/ki-insights/warum-ki-kein-tool-ist-%E2%80%93-sondern-ein-organisations-prinzip)
 
 ## Kontakt
 
 - E-Mail: thomas@thomashunziker.ai
-- LinkedIn: https://www.linkedin.com/in/thomashunziker/
-- Website: https://www.thomashunziker.ai
+- LinkedIn: https://www.linkedin.com/in/thomas-hunziker/
+- Website: https://thomashunziker.ai
